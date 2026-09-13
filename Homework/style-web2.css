@@ -1,0 +1,28 @@
+body {
+    background: linear-gradient(135deg, #ea66cd 0%, #ff0101 100%);
+    font-family: 'Roboto Slab', serif;
+}
+
+.about {
+    background-color: rgb(90, 0, 93);
+    border-radius: 15px;
+    margin-top: 50px;
+}
+
+.m-heading {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin: 20px 0;
+}
+
+.btn-outline-danger {
+    border-width: 2px;
+    font-weight: 600;
+    padding: 10px 30px;
+    transition: all 0.3s ease;
+}
+
+.btn-outline-danger:hover {
+    background-color: red;
+    transform: scale(1.05);
+}
