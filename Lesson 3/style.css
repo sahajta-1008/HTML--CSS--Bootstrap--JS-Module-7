@@ -1,19 +1,14 @@
-/* style.css */
-
-/* Section background like the image */
-#social-media{
-  background: #2f3550;          /* dark bluish */
+#social-media {
+  background: #2f3550;
 }
 
-/* Heading style */
-.m-heading{
+.m-heading {
   font-weight: 700;
   margin-top: 6px;
 }
 
-/* Button cards */
-.media_link{
-  border: 2px solid #f2a900;    /* yellow border */
+.media_link {
+  border: 2px solid #f2a900;
   border-radius: 4px;
   padding: 14px 18px;
   margin-right: 18px;
@@ -21,19 +16,19 @@
   text-align: left;
 }
 
-.row.pt-5{
+.row.pt-5 {
   gap: 18px;
 }
 
-.media_link h3{
+.media_link h3 {
   font-size: 16px;
   font-weight: 600;
 }
 
-.media_link i{
+.media_link i {
   font-size: 22px;
 }
 
-.media_link.bg-warning{
+.media_link.bg-warning {
   border: 2px solid #f2a900;
 }
